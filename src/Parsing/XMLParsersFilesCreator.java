@@ -9,7 +9,7 @@ import org.w3c.dom.Element;
 import java.io.File;
 import java.io.PrintWriter;
 
-public class XMLParsers {
+public class XMLParsersFilesCreator {
 
 	static PrintWriter writer;
 	
@@ -17,10 +17,7 @@ public class XMLParsers {
 
 		try {
 			
-			writer = new PrintWriter("C:\\Users\\elhaj\\Desktop\\pubMed\\genePsych3.csv");
-			writer.println("PMID" + "," + "Status" + "," + "Owner" + "," + "Year" + "," + "Month" + "," + "Day"
-				   + "," + "ISSN"+ "," + "Volume"+ "," + "Journal Title" + "," + "ArticleTitle"+ "," + "Abstrtact"+ "," + "AuthorsAndAffiliations" + "," + "PubMedID"+ "," + "DOI"+ "," + "PII");
-			writer.flush();
+
 			File fXmlFile = new File("C:\\Users\\elhaj\\Desktop\\pubMed\\QUERIESUPDATES\\immuneNEW.xml");
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -31,17 +28,17 @@ public class XMLParsers {
 			// http://stackoverflow.com/questions/13786607/normalization-in-dom-parsing-with-java-how-does-it-work
 			doc.getDocumentElement().normalize();
 
-			System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
+			//System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
 
 			NodeList nList = doc.getElementsByTagName("PubmedArticle");
 
-			System.out.println("----------------------------");
+			//System.out.println("----------------------------");
 
 			for (int temp = 0; temp < nList.getLength(); temp++) {// nList.getLength()
 
 				Node nNode = nList.item(temp);
 
-				System.out.println("\nCurrent Element : " + nNode.getNodeName());
+				//System.out.println("\nCurrent Element : " + nNode.getNodeName());
 
 				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
@@ -54,50 +51,49 @@ public class XMLParsers {
 
 						Node nNodeMedlineCitation = nListMedlineCitation.item(i);
 
-						System.out.println("\nCurrent Element : " + nNodeMedlineCitation.getNodeName());
+						//System.out.println("\nCurrent Element : " + nNodeMedlineCitation.getNodeName());
 						String status = nListMedlineCitation.item(i).getAttributes().getNamedItem("Status").getNodeValue();
 						String owner = nListMedlineCitation.item(i).getAttributes().getNamedItem("Owner").getNodeValue();
 						String pmid = eElement.getElementsByTagName("PMID").item(0).getTextContent();
-			            System.out.println("Status : " + status);
-			            System.out.println("Owner : " + owner);
-						System.out.println("PMID : " + pmid);
+			           // System.out.println("Status : " + status);
+			         //   System.out.println("Owner : " + owner);
+					//	System.out.println("PMID : " + pmid);
 						
-						writer.print(pmid + "," + status + "," + owner);
+						//writer.print(pmid + "," + status + "," + owner);
 						
 						NodeList nListDateCreated = doc.getElementsByTagName("DateCreated");
 						for (int i2 = 0; i2 < 1; i2++) {// nList.getLength()
 
 							Node nNodeDateCreated = nListDateCreated.item(i2);
 
-							System.out.println("\nCurrent Element : " + nNodeDateCreated.getNodeName());
+							//System.out.println("\nCurrent Element : " + nNodeDateCreated.getNodeName());
 
 							String year = eElement.getElementsByTagName("Year").item(0).getTextContent();
 							String month = eElement.getElementsByTagName("Month").item(0).getTextContent();
 							String day = eElement.getElementsByTagName("Day").item(0).getTextContent();
-							System.out.println("Year : " + year);
-							System.out.println("Month : " + month);
-							System.out.println("Day : " + day);
+							//System.out.println("Year : " + year);
+							//System.out.println("Month : " + month);
+							//System.out.println("Day : " + day);
 							if(year.equals(null))
 								year = "---";
 							if(month.equals(null))
 								month = "---";
 							if(day.equals(null))
 								day = "---";
-							writer.print("," + year + "," + month + "," + day);
+							//writer.print("," + year + "," + month + "," + day);
 						}
 						
-							
 						
 						NodeList nListDateRevised = doc.getElementsByTagName("DateRevised");
 						for (int i2 = 0; i2 < 1; i2++) {// nList.getLength()
 
 							Node nNodeDateRevised = nListDateRevised.item(i2);
 
-							System.out.println("\nCurrent Element :" + nNodeDateRevised.getNodeName());
+							//System.out.println("\nCurrent Element :" + nNodeDateRevised.getNodeName());
 
-							System.out.println("Year : " + eElement.getElementsByTagName("Year").item(0).getTextContent());
-							System.out.println("Month : " + eElement.getElementsByTagName("Month").item(0).getTextContent());
-							System.out.println("Day : " + eElement.getElementsByTagName("Day").item(0).getTextContent());
+							//System.out.println("Year : " + eElement.getElementsByTagName("Year").item(0).getTextContent());
+							//System.out.println("Month : " + eElement.getElementsByTagName("Month").item(0).getTextContent());
+							//System.out.println("Day : " + eElement.getElementsByTagName("Day").item(0).getTextContent());
 
 						}
 						
@@ -108,10 +104,9 @@ public class XMLParsers {
 
 							Node nNodeJournal = nListJournal.item(i2);
 
-							System.out.println("\nCurrent Element :" + nNodeJournal.getNodeName());
+							//System.out.println("\nCurrent Element :" + nNodeJournal.getNodeName());
 							String issn = "---";
 							String volume = "---";
-							String title = "---";
 try{							
 	issn = eElement.getElementsByTagName("ISSN").item(0).getTextContent();
 } catch (NullPointerException npe) {
@@ -124,19 +119,11 @@ try{
 	volume = "---";
 }
 							
-							System.out.println("ISSN : " + issn);
-							System.out.println("Volume : " + volume);
+							//System.out.println("ISSN : " + issn);
+							//System.out.println("Volume : " + volume);
 							
-
-							try{	
-								title = eElement.getElementsByTagName("Title").item(0).getTextContent();
 							
-							System.out.println("Journal Title : " + title);
-						} catch (NullPointerException npe) {
-							title = "---";
-						}
-							
-							writer.print("," + issn +"," + volume + "," + title);
+							//writer.print("," + issn +"," + volume);
 
 						}
 					} catch (NullPointerException npe) {
@@ -162,12 +149,13 @@ try{
 					
 					
 					
-					System.out.println("ArticleTitle : " + articleTitle);
-					System.out.println("AbstractText : " + abstractText);
+					System.out.println((temp+2));
 
-					
-					writer.print(",\"" + articleTitle + "\",\"" + abstractText + "\"");
-					
+					writer = new PrintWriter("C:\\Users\\elhaj\\Desktop\\pubMed\\QUERIESUPDATES\\immune\\"+(temp+2)+".txt");
+
+					writer.println(articleTitle);
+					writer.println(abstractText);
+					writer.flush();
 
 					} catch (NullPointerException npe) {
 						System.out.println("");
@@ -192,8 +180,8 @@ try{
 						//System.out.println("Author : " + eElement.getElementsByTagName("Author").item(i2).getTextContent().trim().replaceAll(" +", " ").replaceAll("[\\t\\n\\r]",", ").replace(",  ,  ", ". "));
 
 					}
-						System.out.println(authors);	
-					writer.print(",\"" + authors + "\"");
+						//System.out.println(authors);	
+					//writer.print(",\"" + authors + "\"");
 					} catch (NullPointerException npe) {
 						System.out.println(npe);
 					}	
@@ -205,7 +193,7 @@ try{
 
 						Node nNodeArticleId = nListArticleIdList.item(i2);
 
-						System.out.println("\nCurrent Element :" + nNodeArticleId.getNodeName());
+						//System.out.println("\nCurrent Element :" + nNodeArticleId.getNodeName());
 						String pubmedID = "";
 						String doi = "";
 						String pii = "";
@@ -230,12 +218,12 @@ try{
 						}
 						
 						
-						System.out.println("ArticleId pubmed : " + pubmedID);
-						System.out.println("ArticleId doi : " + doi);
-						System.out.println("ArticleId pii : " + pii);
+						//System.out.println("ArticleId pubmed : " + pubmedID);
+						//System.out.println("ArticleId doi : " + doi);
+						//System.out.println("ArticleId pii : " + pii);
 
 
-						writer.print("," + pubmedID + "," + doi +"," + pii);
+						//writer.print("," + pubmedID + "," + doi +"," + pii);
 						
 					}
 					
@@ -246,9 +234,9 @@ try{
 					}
 				}
 				
-				writer.println();
-				writer.flush();
-				System.out.println("=========================================================================");
+				//writer.println();
+				//writer.flush();
+				//System.out.println("=========================================================================");
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
