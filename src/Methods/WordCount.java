@@ -14,7 +14,7 @@ public class WordCount {
 	static int count = 0;
 	public static void main(String[] args) throws IOException{
 		
-		File f2 = new File("C:\\Users\\elhaj\\Desktop\\pubMed\\new\\refCorpus");
+		File f2 = new File("C:\\Users\\elhaj\\Desktop\\pubMed\\QUERIESUPDATES\\psych");
 		ArrayList<File> files2 = new ArrayList<File>(Arrays.asList(f2.listFiles()));
 			for (int i=0; i<files2.size(); i++){
 			if(files2.get(i).isFile()){
