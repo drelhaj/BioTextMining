@@ -1,0 +1,2516 @@
+AA. See Alopecia areata
+Abnormal host immune
+response, 203
+Absent B cells, antibody
+defi ciency from, 64, 66
+BTK genes and, 64
+X-linked
+agammaglobulinemia, 66
+Acquired immune defi ciency
+syndrome (AIDS),
+131. See also Human
+immunodefi ciency virus
+TB and, 233
+Activation-induced cell death
+(AICD), 39
+Active immunization, 37–38
+Acute infl ammatory
+demyelinating
+polyneuropathy (AIDP),
+297. See also Guillian
+Barré syndrome
+Acute post streptococcal
+glomerulonephritis
+(APSGN), 326–328
+antigens in, 326–328
+biopsy staining for, 327f
+immune response sequences
+in, 319f
+SPEB and, 327
+streptokinase and, 327
+Acute rheumatic fever (ARF),
+199–211
+animal models of, 207–208
+anorexia nervosa and, 210
+epidemiology of, 199–200
+etiology of, 203–207
+abnormal host immune
+response, 203
+mononuclear cellular
+infi ltrates in, 206f
+future research for, 209–210
+genetic predisposition to,
+201–202
+HLA and, 202
+heart reactive antibody titers
+in, 204–205, 204f, 205f
+incidence rates for, 199
+mortality rates for, decline of,
+200f
+M type strains of, 200
+OCD and, 206
+pathogenesis of, 200–201
+group A streptococcus in,
+200–201
+staining for, 204f
+immunofl uorescent, 207f
+streptococcal vaccines for,
+208–209, 210t
+Tourette’s syndrome and, 210
+Adaptive immunity, 47–49
+DC and, 47
+to HIV, 135–136, 137f
+MHC and, 47
+TLRs and, 47–49, 48t
+signaling for, 48–49
+Adenosine nucleotide
+translocator (ANT), 223
+Adhesion molecules, 10
+Adjuvant arthritis, 180
+Adoptive cell transfer, 13f
+Adoptive immunotherapy, 37
+AICD. See Activation-induced cell
+death
+AIDP. See Acute infl ammatory
+demyelinating
+polyneuropathy
+AIDS. See Acquired immune
+defi ciency syndrome
+AIH. See Autoimmune hepatitis
+AIHA. See Autoimmune
+hemolytic anemia
+AK. See Atopic
+keratoconjunctivitis
+Alkylating agents, 33–34
+Allergens and, 145
+Allergic asthma. See Asthma
+Allergic conjunctivitis, 150–152
+AK, 151
+animal models of, 151–152
+GPC, 151
+histopathological/lab fi ndings
+for, 152t
+perennial, 150
+seasonal, 150
+vernal, 150–151
+Allergic reactions, 145–160.
+See also Anaphylaxis;
+Respiratory tract,
+allergic diseases of;
+Skin diseases, allergic
+reactions and
+allergens and, 145
+anaphylaxis and, 147–149
+animal models of, 148
+causes of, 148–149, 149t
+defi nition of, 147
+systemic, 147–149
+treatment of, 148
+atopy and, 146–147
+genetic component of, 146
+classifi cation of, 146t
+conjunctivitis, 150–152
+AK, 151
+animal models of, 151–152
+GPC, 151
+histopathological/lab
+fi ndings for, 152t
+perennial, 150
+seasonal, 150
+vernal, 150–151
+contact dermatitis, 145
+from food, 156–157
+diagnosis of, 156
+food tolerance v., 157
+incidence rates for, 156
+from peanuts, 156–157
+RAST for, 156
+hypersensitivity and, 145
+delayed type, 145
+immediate type, 145
+incidence rates for, 145
+of respiratory tract, 152–156
+allergic asthma, 154–156
+allergic rhinitis, 152–154
+skin diseases, 157–160
+AK, 159
+angioedema, 157–158
+atopic dermatitis, 158
+atopic eczema, 158–159
+contact agent locations for,
+160b
+contact dermatitis, 145,
+159–160
+urticaria, 157–158
+Allergic rhinitis, 152–154
+causes of, 153
+disease states of, 153
+350 Index
+experimental models of,
+153–154
+incidence rates of, 153
+treatment of, 153
+Alopecia areata (AA), 169–171
+autoantibodies and, 170
+clinical features of, 170f
+pathogenesis of, 170
+treatment for, 171
+ALPS. See Autoimmune
+lymphoproliferative
+syndrome
+Amino acid domains, 3
+Anaphylaxis, 147–149
+animal models of, 148
+causes of, 148–149, 149t
+food, 149
+insect venom, 149
+latex as, 149
+penicillin, 148
+defi nition of, 147
+systemic, 147–149
+basophils in, 147
+mast cells and, 147
+treatment of, 148
+Angioedema, 157–158
+Animal models
+of AIH, 274
+of allergic conjunctivitis,
+151–152
+of anaphylaxis, 148
+of ARF, 207–208
+for autoimmune diseases, 102,
+103t, 104–107
+for autoimmune thyroiditis,
+107
+BXSB, 102, 104, 186
+MRL, 104, 185–186
+for MS, 106
+NZB, 104
+RA, 105–106
+for SLE, 102, 104
+for TID, 106–107
+for TMPD-induced lupus,
+104–105
+of B-CLL, 126–127
+for Chagas’ disease, 214–216
+T cells in, 215–216
+of DCM, 224–225
+of HIV, 138–139
+for IDDM, 278–281
+BB rat, 279–280
+NOD mouse, 278–279
+RIP mice, 280
+T-cell receptor transgenic
+mice, 280
+of MG, 303–304
+of MS, 295–296
+of myocarditis, 224–225
+of neurological syndromes,
+309–311
+human models v., 310t
+of psoriasis, 166
+for rheumatic diseases,
+175–177, 179–182
+AS, 196
+BXSB, 102, 104, 186
+congenic, 177
+F1 hybrid, 184–185
+inducible, 176
+knockout, 176–177
+MRL, 102, 104, 185–186
+NZM2410, 186–187
+PM, 193–194
+PSS, 192
+RA, 179–182
+spontaneous, 175–176
+SS, 189
+transgenic, 176–177
+of TB, 236–237, 246–247
+Cornell model, 237, 241
+in vaccines, 246–247
+Ankylosing spondylitis (AS),
+194–196
+animal models of, 196
+clinical features of, 195
+epidemiology of, 194
+etiology of, 194–195
+pathogenesis of, 194–195
+symptoms of, 195
+treatment of, 195–196
+Anorexia nervosa, 210
+ANT. See Adenosine nucleotide
+translocator
+Anti-B-lymphocyte therapy, 114
+Antibodies, 3–7, 12–17. See also
+Antibody defi ciencies;
+Thymus lymphocyte
+cells
+amino acid domains in, 3
+defi ciencies of, 63–69, 65t
+from absent B cells, 64, 66
+clinical manifestations of, 63
+from CVID, 67–68
+from IgA defi ciency, 68–69
+from IgG subclass
+defi ciency, 69
+from immunoglobulin
+isotope switching, 66–67
+microbial infection patterns
+in, 64t
+treatment of, 69
+EBV and, 53
+IgG, 53
+IgM, 53
+VCA and, 53
+entrons in, 5–6
+exons in, 5–6
+genetic production of, 6f
+hypervariable regions of, 3
+idiotype determinant in, 3
+IgG molecules, 4
+IgM molecules, 4
+immune regulation and, 34–35
+monoclonal, 35, 35f
+light chains in, 3–4, 4f
+for MG, 303–304
+monoclonal, 22
+immune regulation with,
+35, 35f
+TNF and, 35
+polyclonal, 21–22
+production of, 12–17
+recombination events with, 6f
+for SLE, 306–307
+T cells, 2, 13–14
+transplantation and, screening
+of, 334
+variable regions of, 3
+Antibody defi ciencies, 63–69, 65t
+from absent B cells, 64, 66
+BTK genes and, 64
+X-linked
+agammaglobulinemia, 66
+clinical manifestations of, 63
+in respiratory tract, 63
+from CVID, 67–68
+ICOS and, 68
+incidence rates for, 67
+from IgA defi ciency, 68–69
+race as factor in, 68
+from IgG subclass defi ciency,
+69
+from immunoglobulin isotope
+switching, 66–67
+gene defects in, 66
+microbial infection patterns
+in, 64t
+treatment of, 69
+Antibody-induced bullous
+lesions, 171–173
+bullous pemphigoid, 172
+dermatitis herpetiformis,
+172–173
+treatment for, 173
+pemphigus vulgaris, 171–172,
+172f
+treatment for, 172
+Antibody production, 12–17
+adoptive cell transfer in, 13f
+of B cells, 12–13
+cellular immunity in, 14–15
+clonal selection theory and, 12
+immunological techniques in,
+21–22
+nonspecifi c effector molecules
+in, 15–17
+complement component
+system with, 15–17
+of plasma cells, 12
+of T cells, 2, 13–14
+adoptive cell transfer with,
+13f
+Index 351
+differentiation of, 13–14
+production of, 13–14
+TNF and, 14
+Anticytokine agents, 113
+Antigen-induced arthritis,
+180–181
+Antigen-presenting cells (APCs),
+8, 11
+Antigens, 2–3
+antigen-induced arthritis,
+180–181
+in APSGN, 326–327
+for β cells, 282–283
+in B-CLL, 122–123
+foreign, 123
+binding of, 6–7
+for Chagas’ disease, 219t
+EA, 53
+EBNA, 53
+for GBS, 301
+for GvHD, 342f, 343f
+haptens and, 3
+Langerhans cells in, 12
+MHC and, 9
+in mucosal immune system,
+255
+in organ allograft rejection,
+337f
+streptococcal, 49
+in kidneys, 328f
+superantigens, 50
+TNF and, 9
+Antimalarial drugs, 113
+Anti-T-lymphocyte therapy,
+113–114
+APCs. See Antigen-presenting
+cells
+APSGN. See Acute post
+streptococcal
+glomerulonephritis
+ARF. See Acute rheumatic fever
+Arthritis reaction, 19
+Assays, 22–32. See also
+Lymphocytic assays
+immunological, 22–25
+complement, 24–25
+ELISAs, 23
+immunoblots, 23–24, 25f
+immunoglobin
+measurements in, 22–23
+radioimmunoassays, 23, 24f
+lymphocytic, 25–32
+with DNA technology,
+28–32
+fl uorescein-activated cell
+scanner, 25–26
+proliferation, 26–28
+Asthma (allergic), 154–156
+causes of, 154–155
+experimental models of,
+155–156
+immunology of, 155
+treatment of, 155
+with corticosteroids, 155
+AT. See Ataxia telangiectasia
+Ataxia telangiectasia (AT), 79–80
+Atopic dermatitis, 158
+Atopic eczema, 158–159
+common types, 159t
+weather as trigger for, 159
+Atopic keratoconjunctivitis (AK),
+151
+allergic skin diseases and,
+159
+Atopy, 146–147
+genetic component of, 146
+Autoantibodies, 96
+AA and, 170
+in GBS, 300f
+Autoimmune hemolytic anemia
+(AIHA), 92, 94–96
+Coombs test for, 94f
+indications for, 95
+treatment for, 95–96
+Autoimmune hepatitis (AIH),
+273–274
+animal models of, 274
+classifi cation of, 273
+environmental triggers of,
+273
+treatment for, 274
+Autoimmune
+lymphoproliferative
+syndrome (ALPS), 83–84
+Autoimmune rheumatic diseases.
+See Rheumatic diseases,
+from autoimmunity
+Autoimmune thyroiditis, animal
+model for, 107
+Autoimmunity, diseases
+of, 91–117. See also
+Autoimmune hemolytic
+anemia; Hashimoto’s
+thyroiditis; Rheumatoid
+arthritis; Systemic lupus
+erythematosus
+animal models of, 102, 103t,
+104–107
+for autoimmune thyroiditis,
+107
+BXSB, 102, 104, 186
+MRL, 104
+for MS, 106
+NZB, 104
+for RA, 105–106
+for SLE, 102, 104
+for TID, 106–107
+for TMPD-induced lupus,
+104–105
+from B cells, 91
+defi nition of, 91
+development of, 83–84
+autoimmune
+lymphoproliferative
+syndrome, 83–84
+complement system
+defi ciency and, 86
+immune dysregulation
+polyendocrinopathy, 83
+XLP, 82–83
+EAE, 91
+epidemiology of, 102
+organ-specifi c, 92
+pathogenesis of, 107–112
+environmental triggers in,
+109–110
+genetic predisposition in,
+107–109, 110t
+infections in, 110
+self-tolerance maintenance
+in, 111–112
+twin studies for, 108t
+rheumatic, 175–197
+SLE, 91
+systemic, 92
+from T cells, 91
+tissue damage from, 92,
+94–102
+treatment of, 112–115
+with anti-B-lymphocyte
+therapy, 113–114
+with anticytokine agents,
+113
+with anti-infl ammatory
+agents, 112–113
+with antimalarial drugs, 113
+with anti-T-lymphocyte
+therapy, 113–114
+with cell therapy, 116
+with corticosteroids,
+112–113
+with gene therapy, 116
+with HSCT, 115
+infl ammatory pathway
+therapy, 115–116
+with IVIG, 115
+with methotrexate, 113
+with NSAIDs, 112
+with stem cell therapy,
+116–117
+Type II reactions, 92, 94–96
+AIHA, 92, 92.94–96, 94–96
+Graves’ disease, 96
+immune complex disease,
+96–97
+MG, 96
+Type III reactions, 96–99
+from autoantibodies, 96
+SLE, 91, 97–99
+Type IV reactions, 99–102
+Hashimoto’s thyroiditis,
+100–102
+MHC and, 99
+352 Index
+Autoinfl ammatory syndromes,
+84–85
+Bacille Calmette-Guérin (BCG),
+242–243
+Bacterial evasion mechanisms,
+from infections, 51–53
+antigenic variation as, 51
+M protein in, 51
+capsules and, 51
+parasitic, 57–58
+Bacterial infections, 49–50
+from endotoxins, 50
+M proteins and, 5o, 51f
+from streptococcal antigens, 49
+Bacterial killing defects, 77–78
+CGD, 77–78
+diagnosis of, 78
+Basophils, 147
+β cells, 279f, 282–283
+antigens for, 282–283
+intrathymic negative selection
+and, 282
+islet-specifi c response by,
+282–283
+T cells and, 282–283
+BB rat. See Bio-breeding rat
+B cell receptor (BCR), 119, 124,
+125f
+B cells. See Bursa lymphocyte
+cells
+B-cell type chronic lymphocytic
+leukemia (B-CLL),
+119–128
+animal models of, 126–127
+BCR role in, 119, 124, 125f
+clinical features of, 124–125
+development of, 122–126
+antigen stimulation in,
+122–123
+mutation status in, 120–122,
+122f
+cloning and, 121
+germinal center reactions
+and, 121f
+therapeutic development for,
+127–128
+BCG. See Bacille Calmette-Guérin
+BCKD. See Branched-chain
+ketodehydrogenase
+B-CLL. See B-cell type chronic
+lymphocytic leukemia
+BCR. See B cell receptor
+Berger’s disease, 320. See also IgA
+defi ciency
+Bio-breeding (BB) rat (animal
+model), 279–280
+Bishai, William, 241
+Branched-chain
+ketodehydrogenase
+(BCKD), 223
+Bruton’s tyrosine kinase (BTK)
+genes, 64
+BTK genes. See Bruton’s tyrosine
+kinase genes
+Bullous pemphigoid, 172
+Burkitt’s lymphoma, 54
+Bursa (B) lymphocyte cells, 2,
+12–13, 120f. See also B-cell
+type chronic lymphocytic
+leukemia
+activation of, 119
+adoptive cell transfer with, 13f
+antibody defi ciencies and,
+64, 66
+BTK genes and, 64
+autoimmunity from, 91
+B-CLL and, 119–128
+animal models of, 126–127
+BCR role in, 119, 124, 125f
+clinical features of, 124–125
+development of, 122–126
+mutation status in, 120–122,
+122f
+therapeutic development
+for, 127–128
+BCR and, 119
+maturation of, 119
+BXSB animal model (mice), 102,
+104, 186
+C1 inhibitor defi ciency, 87
+Cadherins, 10
+Cardiac disease, immunological
+aspects of, 199–227. See
+also Acute rheumatic
+fever; Chagas’ disease;
+Dilated cardiomyopathy;
+Myocarditis
+ARF, 199–211
+animal models of, 207–208
+anorexia nervosa and, 210
+epidemiology of, 199–200
+etiology of, 203–207
+future research for, 209–210
+genetic predisposition to,
+201–202
+heart reactive antibody
+titers in, 204–205, 204f,
+205f
+incidence rates for, 199
+mortality rates for, decline
+of, 200f
+M type strains of, 200
+OCD and, 206
+pathogenesis of, 200–201
+staining for, 204f
+streptococcal vaccines for,
+208–209, 210t
+Tourette’s syndrome and,
+210
+Chagas’ disease, 211–221
+animal models of, 214–216
+epidemiology of, 211–212
+future research for, 221
+immune response
+mediators for, 220f
+innate immune response
+for, 212–213
+mode of transmission for,
+211–212
+molecular mimicry in, 218
+pathogenesis of, 216–218,
+221
+T. cruzi and, 211–221, 219t
+tissue tropism for, 213–214
+DCM/myocarditis, 222–227
+animal models of, 224–225
+autoimmune considerations
+of, 222–223
+clinical features of, 223–224
+environmental features of,
+224
+etiology of, 222
+future research for, 226–227
+genetic features of, 223–224
+treatment for, 225–226
+Cell-surfaced-based inactivators,
+86–87
+Cell therapy, for autoimmune
+diseases, 116
+Cellular immunity, 14–15
+Cellular response, in immune
+system, 1
+Cellular vaccines, 42–43, 141–142
+DC and, 42–43
+with T cells, 142
+Central nervous system. See
+Neurological syndromes,
+immune-mediated
+Cerebral malaria, 57
+Cerebrospinal fl uid (CSF)
+analysis, 294
+CGD. See Chronic granulomatous
+disease
+Chagas, Carlos, 211
+Chagas’ disease, 211–221
+animal models of, 214–216
+T cells in, 215–216
+epidemiology of, 211–212
+future research for, 221
+immune response mediators
+for, 220f
+innate immune response for,
+212–213
+with GM-CSF, 212–213
+with LPS, 212–213
+mode of transmission for,
+211–212
+molecular mimicry in, 218
+pathogenesis of, 216–218, 221
+autoimmunity and, 217–218
+parasite-directed, 218, 221
+Index 353
+T. cruzi and, 211–221
+antigens for, 219t
+tissue tropism for, 213–214
+Chains, in antibodies, 3–4, 4f
+Chan, John, 241
+Chase, Merrill, 1
+Chemokines, 10
+Chronic gastritis, 256
+Chronic granulomatous disease
+(CGD), 77–78
+diagnosis of, 78
+CIA. See Collagen-induced
+arthritis
+Cirrhosis. See Primary biliary
+cirrhosis
+Clonal selection theory, 12
+CMIS. See Common mucosal
+immune system
+Collagen-induced arthritis (CIA),
+105, 179–180
+Combination vaccines, 246
+Common mucosal immune
+system (CMIS), 254
+Common variable immune
+defi ciency (CVID),
+67–68
+ICOS and, 68
+incidence rates for, 67
+Complement assays, 24–25
+elevation for, 25
+Complement component system,
+15–17
+opsonization in, 15
+pathways in, 15–17, 16f
+Complement system defi ciency,
+85–87, 86t
+autoimmunity and, 86
+C1 inhibitor defi ciency, 87
+cell-surfaced-based
+inactivators, 86–87
+factor H defi ciency and, 86
+MBL and, 85
+Contact dermatitis, 145, 159–160
+testing for, 160
+Coombs test, for AIHA, 94f
+Cord blood cells, 136f
+Cornell model, for TB, 237, 241
+Corticosteroids, 33
+for asthma, 155
+for autoimmune diseases,
+112–113
+side effects of, 33
+Crohn’s disease, 261–262
+characteristics of, 262f
+incidence rates for, 261
+management of, 262
+CSF analysis. See Cerebrospinal
+fl uid analysis
+CVID. See Common variable
+immune defi ciency
+Cyclosporin, 34
+Cytokine immunomodulation,
+39–41
+AICD and, 39
+interleukins and, 40–41, 41f
+structure/signaling pathways
+for, 39f
+TNF and, 40–41
+Cytokines, 3, 10–11
+chemokines, 10
+Cytokine therapy, 36–37
+interferons and, 36–37
+interleukins, 37
+Cytotoxic T cells, 14
+DC. See Dendritic cells
+DC vaccines. See Dendritic cell
+vaccines
+Delayed type hypersensitivity
+(DTH), 14, 145
+latent tuberculosis and, 235
+Delayed-type hypersensitivity
+(DTH), 318–319
+Dendritic cells (DC), 17–18
+adaptive immunity and, 47
+follicular, 12
+HIV and, role in, 134–135
+immature/mature, 17
+macropinocytosis and, 17–18
+in skin, 163–164
+vaccines with, 42–43
+Dendritic cell (DC) vaccines,
+42–43
+FCS and, 42
+Deoxyribonucleic nucleic acid
+(DNA). See also DNA
+technology assays
+immunodefi ciency repair
+defects, 79–80
+AT, 79–80
+Nijmegen breakage
+syndrome, 80
+Dermatitis herpetiformis,
+172–173
+treatment for, 173
+DGS. See DiGeorge’s syndrome
+Diabetes. See Insulin-dependent
+diabetes mellitus
+DiGeorge’s syndrome (DGS), 74
+Dilated cardiomyopathy (DCM),
+222–227
+animal models of, 224–225
+autoimmune considerations
+of, 222–223
+ANT and, 223
+BCKD and, 223
+clinical features of, 223–224
+environmental features of, 224
+etiology of, 222
+future research for, 226–227
+genetic features of, 223–224
+treatment for, 225–226
+Disease-modifying antirheumatic
+drugs (DMARDS),
+179
+DMARDS. See Disease-modifying
+antirheumatic drugs
+DNA. See Deoxyribonucleic
+nucleic acid
+DNA hybridization, 28, 29f
+DNA technology assays, 28–32
+for analysis, 28–29
+hybridization, 29f
+histocompatibility in, 30–31
+MHC in, 30–31
+microarray, 31–32, 31f
+for PCR, 29–30
+DNA vaccines, 245–246
+DTH. See Delayed type
+hypersensitivity;
+Delayed-type
+hypersensitivity
+EA. See Early antigens
+EAE. See Experimental
+autoimmune
+encephalomyelitis
+EAM. See Experimental
+autoimmune myositis
+Early antigens (EA), 53
+EBNA. See Epstein-Barr nuclear
+antigen
+EBV. See Epstein-Barr virus
+Ehrlich, Paul, 91
+ELISAs. See Enzyme-linked
+immunosorbent assays
+Endocrine disease,
+immunological aspects
+of, 277–290. See also
+Insulin-dependent
+diabetes mellitus
+Endotoxins, 50
+Entrons, 5–6
+Enzyme-linked immunosorbent
+assays (ELISAs), 23
+OD readings for, 23
+Epstein-Barr nuclear antigen
+(EBNA), 53
+Epstein-Barr virus (EBV), 53–55
+antibody response to, 53
+EBNA, 53
+IgG, 53
+IgM, 53
+VCA, 53
+Burkitt’s lymphoma and, 54
+homeostasis disorders and,
+80, 83
+immunosuppressive therapy
+for, 54
+as lymphoma, transformation
+of, 55f
+lymphoproliferative syndrome
+and, 54
+354 Index
+viral bystander damage for,
+55–56
+ESN women. See Exposed
+seronegative women
+Exons, 5–6
+Experimental autoimmune
+encephalomyelitis (EAE),
+91
+Experimental autoimmune
+myositis (EAM), 193–194
+Exposed seronegative (ESN)
+women, 134–136
+F1 hybrid animal model, for SLE,
+184–185
+FACS. See Fluorescein-activated
+cell sorter
+Factor H defi ciency, 86
+Fang, Ferric, 239
+FCS. See Fetal calf serum
+Fetal calf serum (FCS), 42
+Flow cytometers, 25–26
+cell separation under, 26f
+Fluorescein-activated cell scanner,
+25–26
+FACS and, 26, 27f, 28f
+lymphocyte identifi cation
+with, 25
+Fluorescein-activated cell sorter
+(FACS), 26, 27f, 28f
+Flynn, Joan, 241
+Focal glomerulosclerosis (FSGS),
+321–322
+diagnosis of, 321–322
+primary, 322
+race/genetic factors for, 321
+secondary, 321
+Follicular dendritic cells, 12
+Food allergies, 156–157
+diagnosis of, 156
+food tolerance v., 157
+incidence rates for, 156
+from peanuts, 156–157
+RAST for, 156
+Food tolerance, 157
+FSGS. See Focal
+glomerulosclerosis
+Fungal infections, 56–57
+mortality rates for, 56
+outcomes to, 56
+superfi cial, 56
+T cell defi ciencies and, 70
+GALT. See Gut-associated
+lymphoid tissue
+Gastrointestinal tract diseases,
+255–263. See also Crohn’s
+disease; Ulcerative colitis
+anatomy, 252f
+GSE, 258–260
+cause of, 258
+diagnosis of, 259–260
+genetic role in, 258
+MHC and, 259
+symptoms of, 258
+IBD and, 260–263
+Crohn’s disease, 261–262
+PSC and, 272
+ulcerative colitis, 262–263
+PA, 255–258, 256f
+chronic gastritis and, 256
+diagnosis of, 257
+treatment of, 257
+GBM. See Glomerular basement
+membrane
+GBS. See Guillian Barré syndrome
+Gene therapy
+for autoimmune diseases, 116
+for psoriasis, 169
+Genomics, psoriasis and, 166–167
+Giant papillary conjunctivitis
+(GPC), 151
+Glomerular basement membrane
+(GBM), 313–315
+structure of, 313–314, 314f, 315f
+Glucocorticoids, 193
+Gluten-sensitive enteropathy
+(GSE), 258–260
+cause of, 258
+diagnosis of, 259–260
+genetic role in, 258
+MHC and, 259
+symptoms of, 258
+GM-CSF. See Granulocytemacrophage
+colonystimulating
+factor
+GPC. See Giant papillary
+conjunctivitis
+Graft-versus-host-disease
+(GvHD), 341–343
+antigens for, 342f, 343f
+forms of, 341–342
+prevention of, 343
+Graft-versus-leukemia/
+lymphoma (GvL),
+343–344
+Granulocyte-macrophage colonystimulating
+factor (GMCSF),
+212–213
+Graves’ disease, 96
+Group A streptococcus, 200–201
+schematic cross-section of, 202f
+GSE. See Gluten-sensitive
+enteropathy
+Guillian Barré syndrome (GBS),
+63, 297–301
+antigens for, 301
+autoantibody sites of action,
+300f
+immune response in, 298f
+MHC and, 301
+molecular mimicry in, 299
+symptoms of, 297
+treatment for, 301
+vaccines as possible cause of,
+299–300
+Gut-associated lymphoid tissue
+(GALT), 251–254
+anatomy of, 251, 252f, 253
+lymphocyte population of,
+253–254
+intraepithelial, 253
+lamina propria, 253
+TH3 cells, 253–254
+GvHD. See Graft-versus-hostdisease
+GvL. See Graft-versus-leukemia/
+lymphoma
+Haptens, 3
+Hashimoto’s thyroiditis, 100–102
+cause of, 101
+imaging studies for, 100–101
+indications for, 101f
+HAV. See Hepatitis A virus
+HBV. See Hepatitis B virus
+HCV. See Hepatitis C virus
+HDV. See Hepatitis D virus
+Heart reactive antibody titers,
+204–205, 204f, 205f
+Helper T cells, 33
+Hematopoietic stem cell
+transplantation (HSCT),
+73
+Hemophagocytic
+lymphohistiocytosis
+(HLH), 80
+Hemopoietic stem cell
+transplantation (HSCT),
+339–345
+for autoimmune diseases, 115
+GvHD and, 341–343
+antigens for, 342f, 343f
+forms of, 341–342
+prevention of, 343
+GvL and, 343–344
+indications for, 339t
+pretransplant regimens for,
+340, 341f
+sources for, 339–340
+Hench, Philip, 112
+Hepatitis A virus (HAV), 268
+Hepatitis B virus (HBV), 265–266
+incidence rates for, 265
+stages of, 265
+vaccines for, 266
+Hepatitis C virus (HCV), 266–268
+biopsy for, 268
+incidence rates for, 266–267
+pathology of, 267
+symptoms of, 267
+treatment for, 268
+Hepatitis D virus (HDV), 268
+Index 355
+Herpes simplex virus, 87–88
+HIES. See Hyper-IgE syndrome
+Histocompatibility assays, 30–31
+Histocytes, 45
+HIV. See Human
+immunodefi ciency virus
+HLA. See Human leukocyte
+antigens
+HLH. See Hemophagocytic
+lymphohistiocytosis
+Homeostasis disorders, 80–85, 81t
+for autoimmunity
+development, 83–84
+ALPS, 83–84
+immune dysregulation
+polyendocrinopathy, 83
+XLP, 82–83
+autoinfl ammatory syndromes,
+84–85
+in cystic pathways, 80, 82
+EBV and, 80, 83
+HLH, 80
+Horror autotoxicus, 91
+HPV. See Human papilloma virus
+HSCT. See Hemopoietic stem cell
+transplantation
+Human immunodefi ciency virus
+(HIV), 54, 56, 131–142
+animal models of, 138–139
+future research for, 142
+genome of, 140
+infection course of, 133f
+infection demographics for,
+131
+maternal-infant models for,
+135–136
+progression patterns for, 131,
+134–138
+adaptive immunity in,
+135–136, 137f
+cord blood cells in, 136f
+DC role in, 134–135
+in ESN women, 134–136
+NEF protein marker in,
+131, 134
+SIV and, 131, 134
+TB and, 233
+types of, 139–140
+vaccines for, 139–142
+cellular, 141–142
+inactivated, 141
+live attenuated, 140–141
+protein subunit, 141
+vaginal transmission of, 132f
+Human leukocyte antigens
+(HLA), 8. See also Major
+histocompatibility
+complex
+ARF and, 202
+transplantation and,
+331–332
+Human papilloma virus (HPV),
+38
+Humoral response, in immune
+system, 1
+“Hygiene hypothesis,” 48
+Hyper-IgE syndrome (HIES), 88
+IBD. See Infl ammatory bowel
+disease
+ICOS. See Inducible costimulating
+receptor
+IDDM. See Insulin-dependent
+diabetes mellitus
+Idiotype determinant, 3
+IgA defi ciency, 68–69
+diagnosis of, 320
+in mucosal immune system,
+254–255
+race as factor in, 20, 68
+as renal disease, 319
+IgG molecules, 4
+antibody defi ciencies from, 69
+EBV and, 53
+IgM molecules, 4
+EBV and, 53
+Immediate type hypersensitivity,
+145
+Immune complex disease, 96–97
+Immune dysregulation
+polyendocrinopathy, 83
+Immune-mediated neurological
+syndromes. See
+Neurological syndromes,
+immune-mediated
+Immune regulation, 33–43. See
+also Immunopotentiation
+antibodies and, 34–35
+in cancer therapies, 35t
+monoclonal, 35, 35f
+cellular vaccines and, 42–43
+DC and, 42–43
+cytokine immunomodulation
+and, 39–41
+AICD and, 39
+interleukins and, 40–41, 41f
+structure/signaling
+pathways for, 39f
+TNF and, 40–41
+immunopotentiation, 36–38
+adoptive immunotherapy
+and, 37
+cytokine therapy and, 36–37
+immunization and, 37–38
+immunosuppression, 33–36
+with immunosuppressive
+drugs, 33–34, 36t
+with plasmapheresis, 35–36
+with total lymphoid
+irradiation, 36
+monoclonal antibodies and,
+35, 35f
+Immune system. See also
+Antibody production;
+Tissue damage pathways
+adhesion molecules, 10
+antibodies, 3–7, 12–17
+amino acid domains in, 3
+entrons in, 5–6
+exons in, 5–6
+genetic production of, 6f
+hypervariable regions of, 3
+idiotype determinant in, 3
+IgG molecules, 4
+IgM molecules, 4
+light chains in, 3–4, 4f
+recombination events with,
+6f
+variable regions of, 3
+antigens, 2–3
+binding of, 6–7
+haptens and, 3
+MHC and, 9
+APCs in, 8, 11
+cellular response in, 1
+components of, 1–19
+cytokines, 3, 10–11
+chemokines, 10
+humoral response, 1
+interleukins, 3
+lymphocytes in, 2, 11t
+bursa, 2, 12–13
+development/
+differentiation of, 2f
+thymus, 2, 13–14
+macrophages in, 17–18
+DC, 17–18
+mature, 18
+MHC, 2, 8–9
+antigens and, 9
+APC and, 8
+polymorphism and, 8
+representation of, 8f
+restriction of antigen
+recognition in, 9
+neutrophils in, 18
+NK cells in, 18–19
+response initiation of, 11–12
+TCR in, 7–8
+helper, 8
+structure of, 7f
+tissue damage pathways in,
+19–20
+hypersensitivity reactions
+in, 19–20
+Immunization, 37–38
+active, 37–38
+passive, 38
+with vaccines, 37–38
+Immunoblots, 23–24, 25f
+Immunodefi ciency diseases,
+61–89. See also
+Antibody defi ciencies;
+356 Index
+Homeostasis disorders;
+Phagocyte defi ciencies
+from antibody defi ciencies,
+63–69, 65t
+from absent B cells, 64, 66
+clinical manifestations of, 63
+from CVID, 67–68
+from IgA defi ciency, 68–69
+from IgG subclass
+defi ciency, 69
+from immunoglobulin
+isotope switching, 66–67
+microbial infection patterns
+in, 64t
+treatment of, 69
+causes of, 62t
+complement system defi ciency
+and, 85–87, 86t
+autoimmunity and, 86
+C1 inhibitor defi ciency, 87
+cell-surfaced-based
+inactivators, 86–87
+factor H defi ciency and, 86
+MBL and, 85
+from DNA repair effects, 79–80
+AT, 79–80
+Nijmegen breakage
+syndrome, 80
+HIV, 54, 56
+homeostasis disorders, 80–85,
+81t
+for autoimmunity
+development, 83–84
+autoinfl ammatory
+syndromes, 84–85
+in cystic pathways, 80, 82
+from infection barrier defects,
+61–63
+from integumentary
+damage, 61
+from tissue damage, 62
+from vascular perfusion, 61
+innate immunity defects, 87–88
+herpes simplex virus and,
+87–88
+HIES, 88
+WHIM syndrome, 88
+operational classifi cation of,
+63t
+from phagocyte defi ciencies,
+74–79
+bacterial killing defects,
+77–78
+leukocyte migration defects,
+75–77
+macrophage defects, 78–79
+neutropenia, 74–75
+PID, 61
+incidence rates for, 61
+SCID, 70–74
+classifi cation of, 71–73, 71t
+clinical features of, 71
+incidence rates for, 70
+Omenn’s syndrome, 72
+treatment of, 73–74
+from T-cell defi ciency, 69–74
+causes of, 70t
+DGS, 74
+fungal infections and, 70
+SCID and, 73–74
+Wiskott-Aldrich syndrome, 79
+Immunoglobin measurements,
+22–23
+Immunoglobin superfamily, 10
+Immunoglobulin isotope
+switching, 66–67
+gene defects in, 66
+Immunological assays, 22–25
+complement, 24–25
+ELISAs, 23
+OD readings for, 23
+immunoblots, 23–24, 25f
+immunoglobin measurements
+in, 22–23
+radioimmunoassays, 23, 24f
+Immunological techniques,
+21–32. See also Assays;
+Immunological assays;
+Lymphocytic assays
+in antibody production, 21–22
+assays, 22–32
+immunological, 22–25
+lymphocytic, 25–32
+Immunopotentiation, 36–38
+adoptive immunotherapy
+and, 37
+cytokine therapy and, 36–37
+interferons and, 36–37
+immunization and, 37–38
+active, 37–38
+passive, 38
+with vaccines, 37–38
+Immunosuppression, 33–36
+with immunosuppressive
+drugs, 33–34, 36t
+alkylating agents, 33–34
+corticosteroids, 33
+cyclosporin, 34
+thiopurines, 33
+for transplantation, 336–337
+with plasmapheresis, 35–36
+with total lymphoid
+irradiation, 36
+Immunosuppressive drugs,
+33–34, 36t
+alkylating agents, 33–34
+corticosteroids, 33
+cyclosporin, 34
+thiopurines, 33
+Immunosuppressive therapy, for
+EBV, 54
+Inactivated viral vaccines, 141
+Inducible co-stimulating receptor
+(ICOS), 68
+Induction agents, 335–336
+Infection barrier defects, 61–63
+from integumentary damage,
+61
+from tissue damage, 62
+from vascular perfusion, 61
+Infections, 45–58. See also Viral
+infections
+adaptive immunity to, 47–49
+DC and, 47
+MHC and, 47
+TLRs and, 47–49, 48t
+autoimmunity diseases and, in
+pathogenesis of, 110
+from bacteria, 49–50
+from endotoxins, 50
+M proteins and, 50, 51f
+from streptococcal antigens,
+49
+from bacterial evasion, 51–53
+antigenic variation as, 51
+capsules and, 51
+parasitic, 57–58
+fungal, 56–57
+nonspecifi c resistance to,
+45–47
+from macrophages, 45
+organs/systems for, 46f
+from phagocytes, 45
+from
+polymorpholeukocytes,
+45
+from toll receptors, 46
+parasitic, 57–58
+from superantigens, 50, 52t
+binding of, 51f
+S. aureus, 50
+viral, 53–56
+EBV, 53–55
+herpes simplex, 87–88
+HIV, 54, 56
+Infl ammatory bowel disease
+(IBD), 260–263
+Crohn’s disease, 261–262
+characteristics of, 262f
+incidence rates for, 261
+management of, 262
+PSC and, 272
+ulcerative colitis, 262–263
+characteristics of, 262f
+environmental causes of,
+262–263
+treatment for, 263
+Innate immunity defects, 87–88
+herpes simplex virus and,
+87–88
+HIES, 88
+WHIM syndrome, 88
+Insect venom, 149
+Index 357
+Insulin-dependent diabetes
+mellitus (IDDM), 277–290
+animal models of, 278–281
+BB rat, 279–280
+NOD mouse, 278–279
+RIP mice, 280
+T-cell receptor transgenic
+mice, 280
+β cells, 279f, 282–283
+antigens for, 282–283
+intrathymic negative
+selection and, 282
+islet-specifi c response by,
+282–283
+T cells and, 282
+clinical presentation of,
+277–278
+development rate for, 278f
+diagnosis of, 287–289
+with immunoassays,
+287–288
+LADA and, 288
+environmental factors for,
+284–285
+epidemiology of, 278f
+etiology of, 283–285, 283f, 287
+genetic factors for, 283–284
+in immigrant population, in
+England, 286f
+MS and, 286f
+prediabetes and, 288–289
+STZ model for, 280–281
+treatment for, 289
+viruses and, 285, 285f, 287
+Integrins, 10
+Interferons, 36–37
+interleukins, 37
+types of, 36–37
+Interleukins, 3
+cytokine immunomodulation
+and, 40–41, 41f
+interferons and, 37
+psoriasis and, in genomics
+for, 167
+Intraepithelial lymphocytes, 253
+Intrathymic negative selection,
+282
+Intravenous immunoglobulin
+(IVIG), 115
+Janeway, Charles, 46
+K/BxN model, for RA, 105–106,
+181–182
+Keratinocytes, 163
+Kidneys, 313–314. See also Renal
+disease
+anatomy of, 313
+GBM in, 313–315
+structure of, 313–314, 314f,
+315f
+immune injury mechanisms,
+316–319
+cell-specifi c, 317, 317t
+tissue-specifi c, 317, 318t
+streptococcal cells in, 328f
+Killed vaccines, 38
+Koch, Robert, 236
+Kupffer cells, 18, 45
+in liver immunology, 264
+LADA, 288
+Lambert-Eaton syndrome, 303
+Lamina propria lymphocytes, 253
+Langerhans cells, 12, 45
+in skin, 163
+Latent tuberculosis, 235–236
+DTH and, 235
+Lesions. See Antibody-induced
+bullous lesions
+Leukemias. See B-cell type
+chronic lymphocytic
+leukemia
+Leukocyte migration defects,
+75–77
+symptoms of, 77
+Lipopolysaccharide (LPS),
+212–213
+Live attenuated vaccines, 38
+for HIV, 140–141
+for TB, 244–245
+Liver diseases, 265–274
+AIH, 273–274
+animal models of, 274
+classifi cation of, 273
+environmental triggers of,
+273
+treatment for, 274
+HAV, 268
+HBV, 265–266
+incidence rates for, 265
+stages of, 265
+vaccines for, 266
+HCV, 266–268
+biopsy for, 268
+incidence rates for, 266–267
+pathology of, 267
+symptoms of, 267
+treatment for, 268
+PBC, 269–271
+diagnosis of, 269–270
+symptoms of, 269
+treatment of, 271
+PSC, 271–273
+clinical presentation of,
+271–272
+IBD and, 272
+symptoms of, 272
+treatment of, 273
+Liver immunology, 263–264, 264f
+Kupffer cells in, 264
+LSECs in, 264
+Liver sinusoidal endothelial cells
+(LSECs), 264
+LPS. See Lipopolysaccharide
+LSECs. See Liver sinusoidal
+endothelial cells
+Lupus cerebritis, 305
+Lupus nephritis, 325–326
+classifi cation of, 325–326
+treatment of, 326
+Lymphocytes, 2, 11t
+B-cells, 2, 12–13
+development/differentiation
+of, 2f
+fl ow cytometers and, 25–26
+under fl uorescein-activated
+cell scanner, 25
+FACS and, 26, 27f, 28f
+GALT and, 253–254
+intraepithelial, 253
+lamina propria, 253
+TH3 cells, 253–254
+thymus, 2
+Lymphocytic assays, 25–32
+with DNA technology, 28–32
+for analysis, 28–29
+histocompatibility in, 30–31
+MHC in, 30–31
+microarray, 31–32, 31f
+for PCR, 29–30
+fl uorescein-activated cell
+scanner, 25–26
+FACS and, 26, 27f, 28f
+proliferation, 26–28
+Lymphoproliferative syndrome,
+54
+Macrophages, 17–18
+DC, 17–18
+immature/mature, 17
+macropinocytosis and,
+17–18
+histocytes, 45
+Kupffer cells, 45
+Langerhans cells, 45
+mature, 18
+nonspecifi c resistance to
+infections from, 45
+phagocyte defi ciencies and,
+78–79
+TB and, 238–241
+effector mechanisms in,
+239–241
+reactive micromolecules
+and, 240
+Macropinocytosis, 17–18
+Major histocompatibility complex
+(MHC), 2, 8–9
+adaptive immunity and, 47
+antigens and, 9
+TNF and, 9
+APC and, 8
+358 Index
+autoimmune diseases and, 99
+in DNA technology assays,
+30–31
+GBS and, 301
+GSE and, 259
+polymorphism and, 8
+representation of, 8f
+restriction of antigen
+recognition in, 9
+transplantation and, 332–333
+Malaria, 57–58
+cerebral, 57
+MALT. See Mucosa-associated
+lymphoid tissue
+Mannose-binding lectin (MBL),
+85
+Mast cells, 147
+Maternal-infant models, for HIV,
+135–136
+MBL. See Mannose-binding lectin
+MCD. See Minimal change
+disease
+McKinney, John, 240
+Membranoproliferative
+glomerulonephritis
+(MPGN), 323
+classifi cation of, 323
+treatment of, 323
+Membranous nephropathy, 322
+Mesenchymal cells, 117
+Methotrexate, 113
+MG. See Myasthenia gravis
+MHC. See Major
+histocompatibility
+complex
+Microarray assays, 31–32, 31f
+Microbial infection patterns, 64t
+Minimal change disease (MCD),
+320–321
+incidence rates for, 320–321
+treatment for, 321
+Mixed cryoglobulinemia, 328–329
+Monoclonal antibodies, 22
+immune regulation and, 35, 35f
+in cancer therapies, 34t
+TNF and, 35
+Mononuclear cellular infi ltrates,
+206f
+MPGN. See
+Membranoproliferative
+glomerulonephritis
+M proteins, 50, 51f
+in bacterial evasion
+mechanisms, 51
+MRL animal model (mice), 102,
+104, 185–186
+MS. See Multiple sclerosis
+Mucosa-associated lymphoid
+tissue (MALT), 254
+Mucosal immune system,
+251–255. See also Gutassociated
+lymphoid
+tissue
+antigen sampling and, 255
+CMIS and, 254
+GALT and, 251–254
+anatomy of, 251, 252f, 253
+lymphocyte population of,
+253–254
+MALT and, 254
+OT in, 255
+secretory IgA and, 254–255
+Multiple sclerosis (MS), 106,
+293–297
+animal models of, 295–296
+diagnosis of, 294
+with CSF analysis, 294
+IDDM and, 286f
+incidence rates for, 293–294
+symptoms of, 294–295
+treatment of, 296–297
+Myasthenia gravis (MG), 96,
+301–305
+animal models of, 303–304
+antibodies for, 303–304
+genetic factors for, 303
+Lambert-Eaton syndrome and,
+303
+nicotinic cholinergic
+neuromuscular junction
+in, 302f
+treatment for, 304–305
+Mycobacterium tuberculosis,
+46, 233–234. See also
+Tuberculosis
+features of, 233–234
+genome for, 234
+Myocarditis, 222–227
+animal models of, 224–225
+autoimmune considerations
+of, 222–223
+ANT and, 223
+BCKD and, 223
+clinical features of, 223–224
+environmental features of, 224
+etiology of, 222
+future research for, 226–227
+genetic features of, 223–224
+treatment for, 225–226
+Nathan, Carl, 239
+Natural killer (NK) cells, 18–19
+NEF protein marker, in HIV, 131,
+134
+Neurological syndromes,
+immune-mediated,
+293–311. See also Systemic
+lupus erythematosus
+animal models of, 309–311
+human v., 310t
+GBS, 63, 297–301
+antigens for, 301
+autoantibody sites of action,
+300f
+immune response in, 298f
+MHC and, 301
+molecular mimicry in, 299
+symptoms of, 297
+treatment for, 301
+vaccines as possible cause
+of, 299–300
+MG, 96, 301–305
+animal models of, 303–304
+antibodies for, 303–304
+genetic factors for, 303
+Lambert-Eaton syndrome
+and, 303
+nicotinic cholinergic
+neuromuscular junction
+in, 302f
+treatment for, 304–305
+MS, 106, 293–297
+animal models of, 295–296
+diagnosis of, 294
+IDDM and, 286f
+incidence rates for, 293–294
+symptoms of, 294–295
+treatment of, 296–297
+SLE, 91, 97–99, 182–187,
+305–309
+animal models of, 102, 104,
+184–187, 308–309
+antibodies for, 306–307
+clinical features of, 182–183,
+183f
+clinical presentation of,
+307–308
+cognitive disorders with,
+183
+etiology of, 182–183,
+305–306
+incidence rates for, 182
+indications for, 98f
+kidneys and, 183
+Lupus cerebritis and, 305
+neuropsychiatric
+manifestations of, 183
+pathogenesis of, 182–183
+symptoms of, 305–306
+treatment for, 98–99,
+183–184, 309
+types of, pathogenic
+mechanisms in, 307t
+Neutropenia, 74–75
+causes of, 75t
+Neutrophils, 18
+New Generation Vaccines, 209
+New York Times, 131
+Nicotinic cholinergic
+neuromuscular junction,
+302f
+Nijmegen breakage syndrome, 80
+NK cells. See Natural killer cells
+Index 359
+NOD mouse (animal model),
+278–279
+Nonspecifi c effector molecules,
+15–17
+complement component
+system with, 15–17
+opsonization in, 15
+pathways in, 15–17, 16f
+Nonspecifi c resistance, to
+infection, 45–47
+from macrophages, 45
+organs/systems for, 46f
+from phagocytes, 45
+from polymorpholeukocytes,
+45
+from toll receptors, 46
+TLR, 47
+Nonsteroidal anti-infl ammatory
+drugs (NSAIDs), 112
+for PSS, 191
+for RA, 179
+NSAIDs. See Nonsteroidal antiinfl
+ammatory drugs
+NZB animal model (mice), 104
+NZM2410 animal model (mice),
+186–187
+Obsessive-compulsive disorder
+(OCD), 206
+OCD. See Obsessive-compulsive
+disorder
+OD. See Optical density
+Omenn’s syndrome, 72
+Opsonization, 15
+Optical density (OD), 23
+Oral tolerance (OT), in mucosal
+immune system, 255
+Organ allograft rejection,
+334–337
+acute, 335
+antigens for, 337f
+chronic, 335
+hyperacute, 334–335
+immunosuppressive drugs for,
+336–337
+induction agents for, 335–336
+management/prevention of,
+335–337
+OT. See Oral tolerance, in mucosal
+immune system
+PA. See Pernicious anemia
+PAMP. See Pathogen-associated
+molecular patterns
+Parasitic infections, 57–58
+bacterial evasion with, 57–58
+malaria, 57–58
+Passive immunization, 38
+Pathogen-associated molecular
+patterns (PAMP), 46–47
+PRR and, 47
+Pattern recognition receptors
+(PRR), 47
+PBC. See Primary biliary cirrhosis
+PCR assays. See Polymerase chain
+reaction assays
+Pemphigus vulgaris, 171–172,
+172f
+treatment for, 172
+Penicillin, 148
+Perennial allergic conjunctivitis,
+150
+Pernicious anemia (PA), 255–258,
+256f
+chronic gastritis and, 256
+diagnosis of, 257
+treatment of, 257
+with vitamin B12, 257
+Phagocyte defi ciencies, 74–79, 76t
+bacterial killing defects, 77–78
+CGD, 77–78
+leukocyte migration defects,
+75–77
+symptoms of, 77
+macrophage defects, 78–79
+neutropenia, 74–75
+causes of, 75t
+Phagocytes, 45
+Piantadosi, Anne, 140
+PID. See Primary
+immunodefi ciency
+Plasma cells, 12
+Plasma exchange. See
+Plasmapheresis
+Plasmapheresis, 35–36
+PM. See Polymyositis
+Polyclonal antibodies, 21–22
+Polymerase chain reaction (PCR)
+assays, 29–30
+Polymorpholeukocytes, 45
+Polymyositis (PM), 192–194
+animal models of, 193–194
+clinical features of, 193
+EAM and, 193–194
+epidemiology of, 192
+etiology of, 192–193
+pathogenesis of, 192–193
+symptoms of, 193
+treatment of, 193
+with glucocorticoids,
+193
+Prediabetes, 288–289
+Primary biliary cirrhosis (PBC),
+269–271
+diagnosis of, 269–270
+symptoms of, 269
+treatment of, 271
+Primary immunodefi ciency
+(PID), 61
+incidence rates for, 61
+Primary sclerosing cholangitis
+(PSC), 271–273
+clinical presentation of,
+271–272
+IBD and, 272
+symptoms of, 272
+treatment of, 273
+Primary tuberculosis, 234–235
+Progressive systemic sclerosis
+(PSS), 189–192
+animal models of, 192
+clinical features of, 190–191
+pulmonary involvement
+in, 191
+skin tightening/thickening
+as, 190, 191f
+epidemiology of, 189–190
+etiology of, 190
+pathogenesis of, 190
+Raynaud’s phenomenon and,
+190
+treatment of, 191–192
+with NSAIDs, 191
+Protein subunit vaccines, 141
+for TB, 245
+PRR. See Pattern recognition
+receptors
+PSC. See Primary sclerosing
+cholangitis
+Psoriasis, 164–169
+animal models of, 166
+cellular features of, 164–165,
+165f
+T cells and, 164–165
+genomics and, 166–167
+interleukins in, 167
+incidence rates, 164
+pathogenesis of, 168–169
+in gene therapy, 169
+in treatment therapies,
+168–169
+treatment for, 168–169
+pathogenesis and, 168–169
+PSS. See Progressive systemic
+sclerosis
+Radioallergosorbent test (RAST),
+156
+Radioimmunoassays, 23, 24f
+Rapidly progressive
+glomerulonephritis
+(RPGN), 323–325
+types of, 323–325
+RAST. See Radioallergosorbent
+test
+Raynaud’s phenomenon, 190
+Renal disease, 313–329
+APSGN, 326–328
+antigens in, 326–327
+biopsy staining for, 327f
+immune response
+sequences in, 319f
+SPEB and, 327
+360 Index
+streptokinase and, 327
+DTH, 318–319
+FSGS, 321–322
+diagnosis of, 321–322
+primary, 322
+race/genetic factors for, 321
+secondary, 321
+IgA nephropathy, 319
+diagnosis of, 319
+race as factor in, 320
+lupus nephritis, 325–326
+classifi cation of, 325–326
+treatment of, 326
+MCD, 320–321
+incidence rates for, 319–320
+treatment for, 321
+membranous nephropathy, 322
+mixed cryoglobulinemia,
+328–329
+MPGN, 323
+classifi cation of, 323
+treatment of, 323
+RPGN, 323–325
+types of, 323–325
+Respiratory tract, 231
+Respiratory tract, allergic diseases
+of, 152–156
+allergic asthma, 154–156
+causes of, 154–155
+experimental models of,
+155–156
+immunology of, 155
+treatment of, 155
+allergic rhinitis, 152–154
+causes of, 153
+disease states of, 153
+experimental model of,
+153–154
+incidence rates of, 153
+treatment of, 153
+Rheumatic diseases, from
+autoimmunity, 175–197.
+See also Progressive
+systemic sclerosis;
+Rheumatoid arthritis;
+Systemic lupus
+erythematosus
+AS, 194–196
+animal models of, 196
+clinical features of, 195
+epidemiology of, 194
+etiology of, 194–195
+pathogenesis of, 194–195
+symptoms of, 195
+treatment of, 195–196
+animal models of, 175–177
+congenic, 177
+inducible, 176
+knockout, 176–177
+spontaneous, 175–176
+transgenic, 176–177
+clinical features of, 178–179
+future research applications
+for, 196–197
+PM, 192–194
+animal models of, 193–194
+clinical features of, 193
+EAM and, 193–194
+epidemiology of, 192
+etiology of, 192–193
+pathogenesis of, 192–193
+symptoms of, 193
+treatment of, 193
+polymyositis, 192–194
+PSS, 189–192
+animal models of, 192
+clinical features of, 190–191
+epidemiology of, 189–190
+etiology of, 190
+pathogenesis of, 190
+Raynaud’s phenomenon
+and, 190
+treatment of, 191–192
+RA, 105–106, 177–182
+animal models of, 179–182
+CIA and, 105, 179–180
+clinical features of, 178–179
+epidemiology of, 177
+etiology of, 177
+incidence rates for, 177
+K/BxN model for, 105–106,
+181–182
+pathology of, 177–178
+symptoms of, 178
+treatment of, 179
+TTP defi ciency and, 105
+SLE, 91, 97–99, 182–187
+animal models of, 102, 104,
+184–187
+clinical features of, 182–183,
+183f
+cognitive disorders with,
+183
+etiology of, 182–183
+incidence rates for, 182
+indications for, 98f
+kidneys and, 183
+neuropsychiatric
+manifestations of, 183
+pathogenesis of, 182–183
+treatment for, 98, 99,
+183–184
+SS, 187–189
+animal models of, 189
+clinical features of, 188
+epidemiology of, 187
+etiology of, 188
+neurological disease and,
+188
+pathogenesis of, 188
+primary, 187
+secondary, 187
+symptoms of, 187f
+treatment of, 188–189
+Rheumatoid arthritis (RA),
+105–106, 177–182
+animal models of, 179–182
+adjuvant arthritis, 180
+antigen-induced arthritis,
+180–181
+CIA and, 105, 179–180
+clinical features of, 178–179
+metacarpalphalangeal joint
+swelling, 178f
+epidemiology of, 177
+etiology of, 177
+incidence rates for, 177
+K/BxN model for, 105–106,
+181–182
+pathology of, 177–178
+symptoms of, 178
+treatment of, 179
+with NSAIDs, 179
+TTP defi ciency and, 105
+RIP mice (animal model), 280
+RPGN. See Rapidly progressive
+glomerulonephritis
+SCID. See Severe combined
+immunodefi ciency
+Seasonal allergic conjunctivitis,
+150
+Selectins, 10
+Severe combined
+immunodefi ciency
+(SCID), 70–74
+classifi cation of, 71–73, 71t
+clinical features of, 71
+incidence rates for, 70
+Omenn’s syndrome, 72
+treatment of, 73–74
+with gene therapy, 73–74
+with HSCT, 73
+Signaling, for TLR, 48–49
+Simian immunodefi ciency virus
+(SIV), 131, 134
+SIV. See Simian
+immunodefi ciency virus
+Sjögren’s syndrome (SS),
+187–189
+animal models of, 189
+clinical features of, 188
+extraglandular, 188
+epidemiology of, 187
+etiology of, 188
+neurological disease and, 188
+pathogenesis of, 188
+primary, 187
+secondary, 187
+symptoms of, 187f
+treatment of, 188–189
+Skin. See also Skin diseases,
+allergic reactions
+Index 361
+and; Skin diseases,
+immunological aspects of
+DC in, 163–164
+keratinocytes in, 163
+Langerhans cells in, 163
+structure of, 163–164
+Skin diseases, allergic reactions
+and, 157–160
+AK, 159
+angioedema, 157–158
+atopic dermatitis, 158
+atopic eczema, 158–159
+common types, 159t
+weather as trigger for, 159
+contact agent locations for,
+160b
+contact dermatitis, 145,
+159–160
+testing for, 160
+urticaria, 157–158
+types, 158b
+Skin diseases, immunological
+aspects of, 163–174. See
+also Antibody-induced
+bullous lesions; Psoriasis
+for AA, 169–171
+autoantibodies and, 170
+clinical features of, 170f
+pathogenesis of, 170
+treatment for, 171
+for antibody-induced bullous
+lesions, 171–173
+bullous pemphigoid, 172
+dermatitis herpetiformis,
+172–173
+pemphigus vulgaris,
+171–172, 172f
+for psoriasis, 164–169
+animal models of, 166
+cellular features of, 164–165,
+165f
+genomics and, 166–167
+incidence rates, 164
+pathogenesis of, 168–169
+treatment for, 168–169
+SLE. See Systemic lupus
+erythematosus
+SPEB. See Streptococcal pyrogenic
+exotoxin B
+SS. See Sjögren’s syndrome
+Staphylococcal enterotoxins, 52t
+Staphylococcus aureus, 50
+Stem cell therapy, 116–117
+for autoimmune diseases,
+116–117
+with mesenchymal cells, 117
+Streptococcal antigens, 49
+in kidneys, 328f
+Streptococcal enterotoxins, 52t
+Streptococcal pyrogenic exotoxin
+B (SPEB), 327
+Streptococcal vaccines, 208–209,
+210t
+Streptokinase, 327
+Streptozotocin (STZ) model, for
+IDDM, 280–281
+STZ model. See Streptozotocin
+model, for IDDM
+Superantigens, 50, 52t
+binding of, 51f
+S. aureus, 50
+Systemic anaphylaxis, 147–149
+basophils in, 147
+mast cells and, 147
+Systemic lupus erythematosus
+(SLE), 91, 97–99, 182–187,
+305–309
+animal models of, 102, 104,
+184–187, 308–309
+BXSB, 102, 104, 186
+F1 hybrid, 184–185
+MRL, 102, 104, 185–186
+NZM2410, 186–187
+antibodies for, 306–307
+clinical features of, 182–183, 183f
+clinical presentation of,
+307–308
+cognitive disorders with, 183
+etiology of, 182–183, 305–306
+incidence rates for, 182
+indications for, 98f
+kidneys and, 183
+Lupus cerebritis and, 305
+neuropsychiatric
+manifestations of, 183
+pathogenesis of, 182–183
+symptoms of, 305–306
+treatment for, 98–99, 183–184,
+309
+types of, pathogenic
+mechanisms in, 307t
+TB. See Tuberculosis
+T-cell receptors (TCR), 2, 7–8
+helper, 8
+structure of, 7f
+T-cell receptor transgenic mice
+(animal model), 280
+T cells. See Thymus lymphocyte
+cells
+TCR. See T-cell receptors
+Tetramethylpentadecane (TMPD)
+-induced lupus, 104–105
+TH3 lymphocytes, 253–254
+Thiopurines, 33
+Thymic aplasia. See DiGeorge’s
+syndrome
+Thymus (T) lymphocyte cells,
+2, 13–14. See also
+Severe combined
+immunodefi ciency
+adoptive cell transfer with, 13f
+autoimmunity from, 91
+β cells and, 282–283
+in cellular vaccines, 142
+Chagas' disease and, 215–216
+cytotoxic, 14
+defi ciencies of, 69–74
+causes of, 70t
+DGS, 74
+fungal infections and, 70
+SCID and, 70–74
+differentiation of, 13–14
+production of, 13–14
+psoriasis and, 164–165
+TCR, 2, 7–8
+helper, 8
+structure of, 7f
+TNF and, 14
+TID. See Type I diabetes, animal
+model for
+Tissue damage pathways, 19–20
+hypersensitivity reactions in,
+19–20
+arthritis as, 19
+cell bound, 19
+delayed, 20
+immediate, 19
+immune complex, 19–20
+TLR. See Toll-like receptors
+TMPD-induced lupus. See
+Tetramethylpentadecaneinduced
+lupus
+TNF. See Tumor necrosis factor
+Toll-like receptors (TLR), 47–49,
+48t
+adaptive immunity and, 47–49
+signaling for, 48–49
+Toll receptors, 46
+TLR, 47–49, 48f
+signaling for, 48–49
+Total lymphoid irradiation, 36
+Tourette’s syndrome, 210
+Transplantation, immunological
+aspects of, 331–346. See
+also Graft-versus-hostdisease;
+Hemopoietic
+stem cell transplantation
+disease aggressiveness during,
+344f
+future research for, 345–346
+history of, 331
+HLA and, 331–332
+typing of, 333
+HSCT and, 73, 339–345
+for autoimmune diseases,
+115
+GvHD and, 341–343
+GvL and, 343–344
+indications for, 339t
+pretransplant regimens for,
+340, 341f
+sources for, 339–340
+362 Index
+lab testing for compatibility in,
+333–334
+with antibody screening,
+334
+with blood typing, 333–334
+with cross matching, 334
+with HLA typing, 333
+MHC and, 332–333
+organ allograft rejection in,
+334–337
+acute, 335
+antigens for, 337f
+chronic, 335
+hyperacute, 334–335
+immunosuppressive drugs
+for, 336–337
+induction agents for,
+335–336
+management/prevention
+of, 335–337
+of specifi c organs, 337–338
+supportive care for, 344
+Tristetraproline (TTP) defi ciency,
+105
+Trypanosoma cruzi, 211–221. See
+also Chagas’ disease
+antigens for, 219t
+TTP defi ciency. See
+Tristetraproline
+defi ciency
+Tuberculosis (TB), 231–248
+AIDS and, 233
+clinical, 234–236
+latent, 235–236
+primary, 234–235
+epidemiology of, 232–233
+experimental studies of, 236–242
+in animal models, 236–237
+host-pathogen interactions
+in, 237–242
+extracellular persistence in
+vivo, 241–242
+human clinical trials for,
+247–248
+immunity during infection
+of, 241
+immunodefi ciency syndromes
+for predisposition to,
+232t
+incidence rates for, 232
+macrophages and, 238–241
+effector mechanisms of,
+239–241
+protective immune response
+to, 237–238, 238f
+vaccination strategies for,
+242–247
+animal models of, 246–247
+with BCG, 242–243
+with combination vaccines,
+246
+development framework
+for, 243–244
+with DNA vaccines,
+245–246
+evaluation of, 246–247
+with live vaccines, 244–245
+with protein subunit
+vaccines, 245
+worldwide impact of, 231–232
+Tumor necrosis factor (TNF)
+antigens and, 9
+cytokine immunomodulation
+and, 40–41
+monoclonal antibodies and, 35
+T cells and, 14
+Type I diabetes (TID), animal
+model for, 106–107
+Ulcerative colitis, 262–263
+characteristics of, 262f
+environmental causes of,
+262–263
+treatment for, 263
+with surgery, 263
+Urticaria, 157–158
+types, 158b
+Vaccines, 37–38
+for ARF, 208–209
+cellular, 42–43
+DC, 42–43
+FCS and, 42
+GBS and, as possible cause of,
+299–300
+for HBV, 266
+for HIV, 139–142
+cellular, 141–142
+inactivated, 141
+live attenuated, 140–141
+protein subunit, 141
+for HPV, 38
+killed, 38
+live attenuated, 38
+for TB, 242–247
+animal models of, 246–247
+with BCG, 242–243
+combination, 246
+development framework
+for, 243–244
+with DNA, 245–246
+evaluation of, 246–247
+with live vaccines, 244–245
+with protein subunit
+vaccines, 245
+VCA. See Viral capsid antigen
+Vernal allergic conjunctivitis,
+150–151
+Viral capsid antigen (VCA), 53
+Viral infections, 53–56. See
+also Epstein-Barr
+virus; Human
+immunodefi ciency virus
+EBV, 53–55
+antibody response to, 53
+Burkitt’s lymphoma and, 54
+immunosuppressive
+therapy for, 54
+as lymphoma,
+transformation of, 55f
+lymphoproliferative
+syndrome and, 54
+viral bystander damage for,
+55–56
+HAV, 268
+HBV, 265–266
+incidence rates for, 265
+stages of, 265
+vaccines for, 266
+HCV, 266–268
+biopsy for, 268
+incidence rates for, 266–267
+pathology of, 267
+symptoms of, 267
+treatment for, 268
+HDV, 268
+herpes simplex, 87–88
+HIV, 54, 56, 131–142
+animal models of, 138–139
+future research for, 142
+genome of, 140
+infection course of, 133f
+infection demographics
+for, 131
+maternal-infant models for,
+135–136
+progression patterns for,
+131, 134–138
+TB and, 233
+types of, 139–140
+vaccines for, 139–142
+vaginal transmission of, 132f
+Vitamin B12, 257
+von Pirquet, Clemens, 317
+WASP. See Wiskott-Aldrich
+syndrome protein
+WHIM syndrome, 88
+WHO. See World Health
+Organization
+Wiskott-Aldrich syndrome, 79
+WASP for, 79
+Wiskott-Aldrich syndrome
+protein (WASP), 79
+World Health Organization
+(WHO), 232
+X-linked agammaglobulinemia, 66
+X-linked lymphoproliferative
+syndrome (XLP), 82–83
+XLP. See X-linked
+lymphoproliferative
+syndrome

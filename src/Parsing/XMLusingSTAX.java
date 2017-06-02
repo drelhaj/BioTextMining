@@ -23,7 +23,7 @@ public class XMLusingSTAX {
  static int count = 0;
             public static void main(String[] args) throws Exception {
            			
-            	FileInputStream fstream = new FileInputStream("C:\\Users\\elhaj\\Desktop\\pubMed\\QUERIESUPDATES\\ref.xml");
+            	FileInputStream fstream = new FileInputStream("C:\\Users\\elhaj\\Desktop\\pubMed\\QUERIESUPDATES\\psychGeneral.xml");
             	BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
 
             	String strLine;
@@ -44,7 +44,7 @@ if(read == true){
 if(text.contains("</Abstract>")){
 	read = false;
 	String noHtml = Jsoup.parse(abstractText).text();	
-	writer = new PrintWriter("C:\\Users\\elhaj\\Desktop\\pubMed\\QUERIESUPDATES\\ref\\"+(count++)+".txt");
+	writer = new PrintWriter("C:\\Users\\elhaj\\Desktop\\pubMed\\QUERIESUPDATES\\psychGeneral\\"+(count++)+".txt");
 	System.out.println(count);
 	writer.println(noHtml);
 	writer.flush();
