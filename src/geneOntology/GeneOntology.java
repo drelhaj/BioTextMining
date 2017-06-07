@@ -1,23 +1,34 @@
-package Methods;
+package geneOntology;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Set;
 
 import org.apache.commons.lang.StringUtils;
 
 public class GeneOntology {
+	
+public static String oboID = "";
 public static  String str = "";
-public static String[] printArray = new String[10];
+//public static String[] printArray = new String[1000];
+public static List<String> printArray = new ArrayList<>();
+
 public static int arrayCount = 0;
+public static List<String> printArrayTags = new ArrayList<>();
 public static int level = -1;
 public static int position = 0;
 public static int parentLevel = 0;
 public static int lastLevelWithParents = -1;
 public static int lastLevelNoOfParents = 0;
 public static boolean once = true;
+
+
 	public static void main(String[] args) throws IOException{
 		
 
@@ -29,7 +40,9 @@ public static boolean once = true;
 
 		 str = new String(data, "UTF-8");
 				  
-		 getMainEntry(str, "GO:0001780");
+		 mainMethod(str, "GO:0001780");
+		 mainMethod(str, "GO:0006955");
+		 
 		 //String[] parents1 = getParent(idText);
 		 
 		// System.out.println(idText);
@@ -38,14 +51,34 @@ public static boolean once = true;
 		 
 	}
 
+public static void clearValues(){
 	
+	str = "";
+	printArray.clear();// = new String[1000];
+	arrayCount = 0;
+	level = -1;
+	position = 0;
+	parentLevel = 0;
+	lastLevelWithParents = -1;
+	lastLevelNoOfParents = 0;
+	oboID = "";
+	printArrayTags.clear();
+}
+
+
+public static void mainMethod(String text, String ID){
+	oboID = ID;
+	getMainEntry(text, ID);
+}
+
 	public static void getMainEntry(String text, String ID){
+		str = text;
 		level++;
 		//System.out.println("*****************************************************************************************************************>  Level: " + level);
 		int idStart = text.indexOf("id: "+ID);
 		String subText = text.substring(idStart, text.length());
 		String idBlock = subText.substring(0,subText.indexOf("[Term]")); 
-		System.out.println("Child: ["+ID + "]\t Name: [" + getName(idBlock).trim()+"]");
+		//System.out.println("Child: ["+ID + "]\t Name: [" + getName(idBlock).trim()+"]");
 		getParent(idBlock);
 		
 		//return idBlock;
@@ -78,7 +111,8 @@ public static boolean once = true;
 					
 					//System.out.println("*****************************************************************************************************************>  lastLevelWithParents: " + lastLevelWithParents + "lastLevelparentsCount: " + lastLevelNoOfParents);
 
-					printArray[level]=getName(idBlock).trim();
+					//printArray[level]=getOboID(idBlock).trim();//printArray[level]=getName(idBlock).trim();
+					printArray.add(level, getOboID(idBlock).trim());
 				}
 				else{
 					lastLevelNoOfParents--;
@@ -86,12 +120,31 @@ public static boolean once = true;
 					//if(position==2)
 						//lastLevelNoOfParents--;
 
-					printArray[level]=getName(idBlock).trim();
-					for(int w=level+1; w<printArray.length;w++){
-						printArray[w] = null;
+					//printArray[level]=getOboID(idBlock).trim();//printArray[level]=getName(idBlock).trim();
+					printArray.add(level, getOboID(idBlock).trim());
+					for(int w=level+1; w<printArray.size();w++){
+						//printArray[w] = null;
+						printArray.remove(w);
 					}
 					
-					System.out.println("Path = "+java.util.Arrays.toString(removeNulls(printArray)));
+					if(printArray.contains("GO:0002376")){//GO:0002376 = immune system process
+						
+						String childName = getNameById(printArray.get(0)).trim();
+						if(childName.split("\\w+").length>1){childName = childName+ " "; childName = childName.replace(" ", "_* ").trim();}
+						else{childName = childName+ " NN1";}
+					if(oboID.equals(printArray.get(0))){
+						for(int k=0 ; k<printArray.size(); k++){
+								printArrayTags.add(printArray.get(k)+"."+(k+1));
+						}
+}
+					else{
+						System.out.println("No");
+						Set<String> set = new LinkedHashSet<>(printArrayTags);
+						List<String> list = new ArrayList<String>(set);
+						System.out.println(printArray.get(0) + "\t" + Arrays.toString(list.toArray()));
+					}
+					System.out.println("Child: " + printArray.get(0) + "\t" +childName + "\t"+Arrays.toString(printArray.toArray()));
+					}
 					arrayCount = 0;
 
 					if(lastLevelNoOfParents<0)
@@ -103,12 +156,12 @@ public static boolean once = true;
 
 
 				}
-				System.out.print("Parent(s): "+((parents.length<1)? "[Root]" : java.util.Arrays.toString(parents))) ;
+				//System.out.print("Parent(s): "+((parents.length<1)? "[Root]" : java.util.Arrays.toString(parents))) ;
 
-				System.out.print("\t Name: [");
-				for(int x=0; x<parents.length;x++){System.out.print(getNameById(parents[x]).replaceAll("\\r?\\n", " ").trim()+ ", ");}
-				System.out.println("]");
-				System.out.println("===================================================================================================================");
+				//System.out.print("\t Name: [");
+				//for(int x=0; x<parents.length;x++){System.out.print(getNameById(parents[x]).replaceAll("\\r?\\n", " ").trim()+ ", ");}
+				//System.out.println("]");
+				//System.out.println("===================================================================================================================");
 				loopParents(parents);
 				//return parents;
 	}
@@ -126,12 +179,16 @@ getMainEntry(str, parents[i]);
 			return childText.substring(childText.indexOf("name:")+5, childText.indexOf("namespace:"));
 		}
 		
+		public static String getOboID(String childText){
+			return childText.substring(childText.indexOf("id: ")+4, childText.indexOf("name:"));
+		}
+		
 		public static String getNameById(String ID){
 			int idStart = str.indexOf("id: "+ID);
 			String subText = str.substring(idStart, str.length());
 			String idBlock = subText.substring(0,subText.indexOf("[Term]")); 
 			
-			return idBlock.substring(idBlock.indexOf("name:")+5, idBlock.indexOf("namespace:"));
+			return idBlock.substring(idBlock.indexOf("name:")+5, idBlock.indexOf("namespace:")).replaceAll("\r?\n", "");
 
 		}
 		
