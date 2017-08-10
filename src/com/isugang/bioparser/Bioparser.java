@@ -26,8 +26,8 @@ public class Bioparser {
 	public static void main(String[] args) throws Exception {
 
 		writerAll = new PrintWriter("output//all.csv");
-		writerSW = new PrintWriter("output//OntologySW-New.txt");
-		writerMWE = new PrintWriter("output//OntologyMWE-New.txt");
+		writerSW = new PrintWriter("output//OntologySW-New2.usas");
+		writerMWE = new PrintWriter("output//OntologyMWE-New2.usas");
 		
 		writerAll.println("GoID" + "," + "Name" + "," + "Paths" + "," + "NameSpace" + "," + "Immune System Process?" + "," + "Ancestors" + "," + "Children");
 		writerAll.flush();
@@ -45,13 +45,16 @@ public class Bioparser {
 			String nodeName = tree.getEntry(goID).getName().toString();
 
 			String nodeNameUsas = nodeName;
+			String singleMulti = "";
 			System.out.println(nodeName);
 			
 			if (nodeNameUsas.split("\\w+").length > 1) {
 				nodeNameUsas = nodeNameUsas + " ";
 				nodeNameUsas = nodeNameUsas.replace(" ", "_* ").trim();
+				singleMulti = "Multi";
 			} else {
 				nodeNameUsas = nodeNameUsas + "\tNN1";
+				singleMulti = "Single";
 			}
 			
 			
@@ -102,11 +105,18 @@ public class Bioparser {
 			
 			
 			writerAll.println(goID + "," + "\""+nodeName + "\"," + pathsCount + "," + "\"" + nameSpace + "\""+ "," + isImnSysPrs + "," + "\"" + ancestorsList + "\"" + "," + "\"" + tree.getChildNodes(goID) + "\"");
-			writerMWE.println("Child: " + goID + "\t" +nodeNameUsas + "\t" + allEntries);
-			writerSW.println("Child: " + goID + "\t" +nodeNameUsas + "\t" + allEntries);
 			writerAll.flush();
-			writerMWE.flush();
+			if(singleMulti.equals("Multi")){
+					writerMWE.println("Child: " + goID + "\t" +nodeNameUsas + "\t" + allEntries);
+					writerMWE.flush();
+			}
+			if(singleMulti.equals("Single")){
+			writerSW.println("Child: " + goID + "\t" +nodeNameUsas + "\t" + allEntries);
 			writerSW.flush();
+			}
+			
+			
+			
 			
 			ancestors.clear();
 			ancestorsList.clear();

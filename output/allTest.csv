@@ -1,0 +1,2 @@
+GoID,Name,Paths,NameSpace,Immune System Process?,Ancestors,Children
+GO:0000001,"mitochondrion inheritance",5,"biological_process",No,"[GO:0000001, GO:0048311, GO:0048308, GO:0007005, GO:0051646, GO:0006996, GO:0016043, GO:0009987, GO:0071840, GO:0008150, GO:0051640, GO:0051641, GO:0051179]","[]"
