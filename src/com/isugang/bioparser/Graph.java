@@ -90,7 +90,7 @@ public class Graph {
         if (!hasVertex(w)) addVertex(w);
         if (!hasEdge(v, w)) E++;
         st.get(v).add(w);
-        st.get(w).add(v);
+        //st.get(w).add(v); commenting this makes the graph direct.
     }
 
    /**
