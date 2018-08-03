@@ -44,11 +44,10 @@ public class GeneOntology {
 		printArrayTags.clear();
 	}
 
-	public static String getOntologyTags(List<String> Printlist) {
+	public static String getOntologyTags(List<String> Printlist, String ID) {
 
 
-		String childName = GeneOntology.getNameById(Printlist.get(0).substring(0, Printlist.get(0).indexOf(".")))
-				.trim();
+		String childName = GeneOntology.getNameById(ID).trim();
 		if (childName.split("\\w+").length > 1) {
 			childName = childName + " ";
 			childName = childName.replace(" ", "_* ").trim();
@@ -63,7 +62,7 @@ public class GeneOntology {
 		if (list.size() > 0) {
 			entryName = list.get(0).substring(0, list.get(0).indexOf("."));
 
-			return "Child: " + entryName + "\t" + childName + "\t" + Arrays.toString(list.toArray());
+			return "Child: " + ID + "\t" + childName + "\t" + Arrays.toString(list.toArray());
 		} else {
 			return "Child is not Immune System Process";
 		}
@@ -71,6 +70,25 @@ public class GeneOntology {
 	}
 
 
+	public static String mainMethod(String text, String ID) throws FileNotFoundException {
+		
+		if (text.indexOf("id: " + ID) > -1) {
+			clearValues();
+			oboID = ID;
+			getMainEntry(text, ID);
+			tracePaths(parentsLines, ID);
+			parentsLines.clear();
+	
+
+			if(printArrayTags.size()<1)
+				return "Child: " + ID + "\t Has No Parents!";
+			
+			return getOntologyTags(printArrayTags, oboID);
+		} else
+			return "ID doesn't exist!";
+
+	}
+	
 public static void tracePaths(List<String> lines, String ID) throws FileNotFoundException{
 	
 	String errorsFile = "output\\errors.txt"; 
@@ -274,25 +292,6 @@ public static void loopNextParents(String parent, int parentLevel, List<String> 
 	
 }
 
-
-	public static String mainMethod(String text, String ID) throws FileNotFoundException {
-		
-		if (text.indexOf("id: " + ID) > -1) {
-			clearValues();
-			oboID = ID;
-			getMainEntry(text, ID);
-			tracePaths(parentsLines, ID);
-			parentsLines.clear();
-	
-
-			if(printArrayTags.size()<1)
-				return "Child: " + ID + "\t Has No Parents!";
-			
-			return getOntologyTags(printArrayTags);
-		} else
-			return "ID doesn't exist!";
-
-	}
 
 	public static void getMainEntry(String text, String ID) {
 		str = text;

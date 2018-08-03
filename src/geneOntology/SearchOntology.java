@@ -20,7 +20,8 @@ import uk.ac.ebi.ontocat.file.FileOntologyService;
  * Shows how to search a subtree of an ontology
  */
 public class SearchOntology {
-
+
+
 		public static void main(String[] args) throws OntologyServiceException, URISyntaxException {
 			// Create a reference to the ontology
 			// Use new File().toURI() for local files
